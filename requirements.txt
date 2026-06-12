@@ -1,7 +1,9 @@
-tensorflow-cpu
-streamlit
-pandas
-numpy
+
+tensorflow==2.15.0
+pandas 
+numpy 
 scikit-learn
-h5py
-protobuf
+tensorboard
+matplotlib
+streamlit
+scikeras
