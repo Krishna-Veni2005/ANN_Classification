@@ -5,5 +5,5 @@ numpy
 scikit-learn
 tensorboard
 matplotlib
-streamlit
-scikeras
+streamlit==1.45.0
+scikeras==0.12.0
